@@ -4,3 +4,5 @@
 
 /UserManagment/.vs
 /UserManagment/UserManagment/obj
+/UserManagment/UserManagementApiIntergrationTests/bin/Debug/netcoreapp2.2
+/UserManagment/UserManagementApiIntergrationTests/obj

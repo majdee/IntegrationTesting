@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagementAPI", "UserManagment\UserManagementAPI.csproj", "{DB2581E4-9B2F-489A-85B4-AF4059D625EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserManagementAPI", "UserManagment\UserManagementAPI.csproj", "{DB2581E4-9B2F-489A-85B4-AF4059D625EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagementApiIntegrationTests", "UserManagementApiIntergrationTests\UserManagementApiIntegrationTests.csproj", "{17C6FE55-8538-4542-A3C4-AF4F5B85DF40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DB2581E4-9B2F-489A-85B4-AF4059D625EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB2581E4-9B2F-489A-85B4-AF4059D625EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB2581E4-9B2F-489A-85B4-AF4059D625EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C6FE55-8538-4542-A3C4-AF4F5B85DF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C6FE55-8538-4542-A3C4-AF4F5B85DF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C6FE55-8538-4542-A3C4-AF4F5B85DF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C6FE55-8538-4542-A3C4-AF4F5B85DF40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
